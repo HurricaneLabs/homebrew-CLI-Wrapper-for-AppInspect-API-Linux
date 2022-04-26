@@ -1,8 +1,8 @@
 class CliWrapperForAppinspectApiLinux < Formula
   desc "CLI wrapper for AppInspect API (Linux)"
   homepage "https://github.com/HurricaneLabs/CLI-Wrapper-for-AppInspect-API"
-  url "https://github.com/HurricaneLabs/CLI-Wrapper-for-AppInspect-API/releases/download/v0.1.9/linux-appinspect.tar.gz"
-  sha256 "e411a0316fad7b91ddca4e6ae2c968d9cda694a8312a2ac73ebc8f9d03e82252"
+  url "https://github.com/HurricaneLabs/CLI-Wrapper-for-AppInspect-API/releases/download/v0.2.0/linux-appinspect.tar.gz"
+  sha256 "0ed9f654bffdc0dbadae3eb8b325edeb9396adeda57353e7c2404b5f7cc6b9ca"
   license "MIT"
 
   def install
